@@ -2,7 +2,10 @@ import pygame
 
 pygame.init()
 
-screen = pygame.display.set_mode((640,480))
+x = 800
+y = 600
+
+screen = pygame.display.set_mode((x,y))
 clock = pygame.time.Clock()
 running = True
 
