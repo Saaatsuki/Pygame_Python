@@ -21,7 +21,7 @@ circle_y = screen_height // 2
 
 # 프레임 레이트 설정
 clock = pygame.time.Clock()
-fps = 30
+fps = 1000
 
 # 속도 설정
 speed = 5
